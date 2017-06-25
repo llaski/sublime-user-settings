@@ -1,0 +1,31 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Ocean.tmTheme",
+	"file_exclude_patterns":
+	[
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".hg",
+		".sass-cache",
+		"bin",
+		"CVS",
+		"tmp"
+	],
+	"font_face": "InconsolataGo",
+	"font_size": 21,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"show_panel_on_build": false,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Boxy Ocean.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

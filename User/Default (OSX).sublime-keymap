@@ -1,0 +1,64 @@
+[{
+        "keys": ["f9"],
+        "command": "expand_fqcn"
+    }, {
+        "keys": ["f10"],
+        "command": "find_use"
+    }, {
+        "keys": ["f7"],
+        "command": "insert_php_constructor_property"
+    },
+
+    {
+        "keys": ["option+shift+f"],
+        "command": "js_format",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.js,source.json,source.jade"
+        }]
+    },
+
+    {
+        "keys": ["option+shift+f"],
+        "command": "php_fmt",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.php"
+        }]
+    },
+
+    {
+        "keys": ["option+shift+f"],
+        "command": "pretty_json",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.json,source.sublime-settings,source.sublime-keymap"
+        }]
+    },
+
+    {
+        "keys": ["super+shift+r"],
+        "command": "goto_symbol_in_project"
+    }, {
+        "keys": ["option+t"],
+        "command": "run_phpunit_test",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.php"
+        }]
+    },
+
+    {
+        "keys": ["super+option+t"],
+        "command": "run_single_phpunit_test",
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.php"
+        }]
+    }
+]

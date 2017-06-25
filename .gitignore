@@ -1,0 +1,6 @@
+/tmp/
+.DS_Store
+*.crt
+*.cache
+*.last-run
+*ca-bundle

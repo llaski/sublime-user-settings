@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"DocBlockr",
+		"EditorConfig",
+		"EJS",
+		"GitGutter",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSX",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"nginx",
+		"Package Control",
+		"PHP Companion",
+		"Phpcs",
+		"PhpDoc",
+		"phpfmt",
+		"Pretty JSON",
+		"Sass",
+		"SCSS"
+	]
+}
