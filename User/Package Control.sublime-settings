@@ -8,8 +8,10 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
+		"Babel",
 		"Boxy Theme",
 		"BracketHighlighter",
+		"CSS Format",
 		"DocBlockr",
 		"EditorConfig",
 		"EJS",
@@ -25,8 +27,10 @@
 		"Phpcs",
 		"PhpDoc",
 		"phpfmt",
+		"PHPUnit Snippets",
 		"Pretty JSON",
 		"Sass",
-		"SCSS"
+		"SCSS",
+		"SideBarEnhancements"
 	]
 }

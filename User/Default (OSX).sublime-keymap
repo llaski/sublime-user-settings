@@ -39,6 +39,20 @@
         }]
     },
 
+    // Convert to Expanded Format
+    {
+        "keys": ["option+shift+f"],
+        "command": "css_format",
+        "args": {
+            "action": "expand"
+        },
+        "context": [{
+            "key": "selector",
+            "operator": "equal",
+            "operand": "source.css,source.less,source.scss,source.sass"
+        }]
+    },
+
     {
         "keys": ["super+shift+r"],
         "command": "goto_symbol_in_project"
