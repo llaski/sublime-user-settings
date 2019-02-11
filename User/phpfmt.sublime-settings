@@ -1,7 +1,8 @@
 {
 	"format_on_save": false,
 	"php_bin": "/usr/local/bin/php",
-	"psr1": true,
+	"psr1": false,
 	"psr2": true,
+	"skip_if_ini_missing": false,
 	"version": 1
 }

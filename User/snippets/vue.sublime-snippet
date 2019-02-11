@@ -1,0 +1,27 @@
+<snippet>
+    <content><![CDATA[
+<template>
+    ${0}
+</template>
+
+<script>
+export default {
+
+    props: [${1}],
+
+    data() {
+        return {
+            ${2}
+        }
+    },
+
+    methods: {
+        ${3}
+    }
+
+}
+</script>
+
+]]></content>
+    <tabTrigger>vue</tabTrigger>
+</snippet>

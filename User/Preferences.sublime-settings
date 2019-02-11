@@ -7,7 +7,6 @@
 	"folder_exclude_patterns":
 	[
 		".bundle",
-		".git",
 		".hg",
 		".sass-cache",
 		"bin",
@@ -15,7 +14,7 @@
 		"tmp"
 	],
 	"font_face": "InconsolataGo",
-	"font_size": 21,
+	"font_size": 17,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -26,6 +25,7 @@
 	"tab_size": 4,
 	"tabs_small": true,
 	"theme": "Boxy Ocean.sublime-theme",
+	"theme_sidebar_font_lg": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
